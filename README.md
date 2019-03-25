@@ -4,9 +4,10 @@ RNN TV script generator NLP project for Udacity Deep Learning Nanodegree
 
 Description
 
-Trains an RNN on a dataset of seinfeld screenplays, then generates new, amausing scripts.
+Trains an RNN on a dataset of seinfeld screenplays, then generates new, amusing scripts.
 
-# Bike-sharing predictor
+### TV Script Generator
+# Teach an AI to write an for your favorite TV show
 
 #### Returns the expected volume of business based on historical bike-retal data, so the company can predict the number of bikes they will need. First project for the Udacity Deep Learning Nanodegree.
 
