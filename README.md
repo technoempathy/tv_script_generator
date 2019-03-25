@@ -7,9 +7,11 @@
 ### Step 1: Review my code and results in [dlnd_tv_script_generation.ipynb](https://github.com/technoempathy/tv_script_generator/blob/master/dlnd_tv_script_generation.ipynb "Title").
 
 ### Step 2: Do this project yourself
-To make your own TV Script Generator, go [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation "Title") and clone the repository, and open [dlnd_tv_script_generation.ipynb](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation "Title").
-```	git clone https://github.com/udacity/deep-learning-v2-pytorch.git
-	cd deep-learning-v2-pytorch/project-tv-script-generation```
+To make your own TV Script Generator, go [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation "Title") and clone the repository.
+```	
+git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+	cd deep-learning-v2-pytorch/project-tv-script-generation
+```
 Then open dlnd_tv_script_generation.ipynb 
 
 ## Prerequisites
