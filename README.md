@@ -17,31 +17,16 @@ Then open dlnd_tv_script_generation.ipynb
 ## Prerequisites
 1. Jupyter Notebooks
 2. GPU
-3. The [Seinfeld dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) from the UCI Machine Learning Database. 
-4.	Pytorch and Torchvision. For installation instructions see [Udacity's README in the Deep Learning repository](https://github.com/udacity/deep-learning-v2-pytorch "Title").
+3. The [Seinfeld dataset](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv). 
+4. Pytorch and Torchvision. For installation instructions see [Udacity's README in the Deep Learning repository](https://github.com/udacity/deep-learning-v2-pytorch "Title").
 
 ## Tips
-#### Watch out for size mismatch. 
-Almost all the challenges I ran into with this project happened as a result of size mismatch. Read the comments in my code to see where I had these problems and how I solved them.
-
-## Known Issues
-To pass all unit tests, I needed to add this print statement to the test_run function under unittests.
-`print(network.run(inputs))`
-
-The print statment should be added here:
-```
-def test_run(self):
-        # Test correctness of run method
-        network = NeuralNetwork(3, 2, 1, 0.5)
-        network.weights_input_to_hidden = test_w_i_h.copy()
-        network.weights_hidden_to_output = test_w_h_o.copy()
-        print(network.run(inputs)) #Add the print statement here
-        self.assertTrue(np.allclose(network.run(inputs), 0.09998924))
- ```
+#### Leave extra time to tune hyperparameters
+For information on how I chose mine, please read my inline comments, as well as the "Answer" markdown sections. I hope you have as much fun as I did!
 
 ## Authors
 - @technoempathy – Layla Messner 
 
 ## Acknowledgments
--	@udacity for the project
--	@facebook for the scholarship to the Udacity Deep Learning Nanodegree
+- @udacity for the project
+- @facebook for the scholarship to the Udacity Deep Learning Nanodegree
