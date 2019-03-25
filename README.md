@@ -1,18 +1,10 @@
-TV Script Generator
-
-RNN TV script generator NLP project for Udacity Deep Learning Nanodegree
-
-Description
-
-Trains an RNN on a dataset of seinfeld screenplays, then generates new, amusing scripts.
-
 ### TV Script Generator
 # Teach an AI to write an for your favorite TV show
 
-#### Returns the expected volume of business based on historical bike-retal data, so the company can predict the number of bikes they will need. First project for the Udacity Deep Learning Nanodegree.
+#### Trains an RNN on a dataset of Seinfeld screenplays, then generates new, amusing scripts. Third technical project for the Udacity Deep Learning Nanodegree.
 
 ## Getting Started
-### Step 1: Review my code in [my_answers.py](https://github.com/technoempathy/bike_sharing/blob/master/my_answers.py "Title") and see my results in [bike_sharing.ipynb](https://github.com/technoempathy/bike_sharing/blob/master/bike_sharing.ipynb "Title").
+### Step 1: Review my code and results in [dlnd_tv_script_generation.ipynb](https://github.com/technoempathy/tv_script_generator/blob/master/dlnd_tv_script_generation.ipynb "Title").
 
 ### Step 2: Do this project yourself
 To make your own Bike-sharing Predictor or review the project specifications, go [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing "Title") and follow the instructions in Udacity's README.
