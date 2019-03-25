@@ -1,18 +1,21 @@
 ### TV Script Generator
 # Teach an AI to write an for your favorite TV show
 
-#### Trains an RNN on a dataset of Seinfeld screenplays, then generates new, amusing scripts. Third technical project for the Udacity Deep Learning Nanodegree.
+#### Trains an RNN on a dataset of Seinfeld screenplays, then generates new, amusing scripts. Project for the Udacity Deep Learning Nanodegree.
 
 ## Getting Started
 ### Step 1: Review my code and results in [dlnd_tv_script_generation.ipynb](https://github.com/technoempathy/tv_script_generator/blob/master/dlnd_tv_script_generation.ipynb "Title").
 
 ### Step 2: Do this project yourself
-To make your own Bike-sharing Predictor or review the project specifications, go [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-bikesharing "Title") and follow the instructions in Udacity's README.
+To make your own TV Script Generator, go [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation "Title") and clone the repository, and open [dlnd_tv_script_generation.ipynb](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation "Title").
+```	git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+	cd deep-learning-v2-pytorch/project-tv-script-generation```
+Then open dlnd_tv_script_generation.ipynb 
 
 ## Prerequisites
 1. Jupyter Notebooks
 2. GPU
-3. The [bike-sharing dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) from the UCI Machine Learning Database. 
+3. The [Seinfeld dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) from the UCI Machine Learning Database. 
 4.	Pytorch and Torchvision. For installation instructions see [Udacity's README in the Deep Learning repository](https://github.com/udacity/deep-learning-v2-pytorch "Title").
 
 ## Tips
