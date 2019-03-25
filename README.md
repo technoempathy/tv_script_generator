@@ -22,7 +22,8 @@ Then open dlnd_tv_script_generation.ipynb
 
 ## Tips
 #### Leave extra time to tune hyperparameters
-For information on how I chose mine, please read my inline comments, as well as the "Answer" markdown sections. I hope you have as much fun as I did!
+For information on how I chose mine, please read my inline comments, as well as the "Answer" markdown sections. 
+I hope you have as much fun as I did!
 
 ## Authors
 - @technoempathy – Layla Messner 
